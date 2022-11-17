@@ -1,0 +1,6 @@
+class are blueprint for objects.
+How to define a class-
+class{
+int a=0;
+System.out.println("Hello");
+}
